@@ -1,0 +1,7 @@
++--------+-----------------+
+|courseid|coursename       |
++--------+-----------------+
+|301     |Database Systems |
+|302     |Circuit Theory   |
+|303     |Advanced Calculus|
++--------+-----------------+

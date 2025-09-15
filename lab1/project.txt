@@ -1,0 +1,7 @@
++---------+-----------------------+-----------+------------+
+|projectid|projecttitle           |projecttype|supervisorid|
++---------+-----------------------+-----------+------------+
+|1001     |AI Research            |Research   |1           |
+|1002     |Power Grid Optimization|Development|2           |
+|1003     |Robotic Arm Design     |Design     |3           |
++---------+-----------------------+-----------+------------+

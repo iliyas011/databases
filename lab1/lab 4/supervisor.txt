@@ -1,0 +1,7 @@
++------------+--------------+----------------------+
+|supervisorid|supervisorname|supervisordept        |
++------------+--------------+----------------------+
+|1           |Dr. Smith     |Computer Science      |
+|2           |Dr. Johnson   |Electrical Engineering|
+|3           |Dr. Brown     |Mechanical Engineering|
++------------+--------------+----------------------+

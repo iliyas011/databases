@@ -1,0 +1,7 @@
++---------+----------------------+
+|studentid|studentmajor          |
++---------+----------------------+
+|201      |Computer Science      |
+|202      |Electrical Engineering|
+|203      |Mathematics           |
++---------+----------------------+

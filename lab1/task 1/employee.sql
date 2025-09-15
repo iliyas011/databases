@@ -1,0 +1,5 @@
+empid = 101 AND ssn = '123-45-6789' AND phone = '555-0101' AND email = 'john@company.com' AND salary = 75000.00 AND name = 'John Smith' AND department = 'IT'
+OR empid = 102 AND ssn = '987-65-4321' AND phone = '555-0102' AND email = 'mary@company.com' AND salary = 68000.00 AND name = 'Mary Johnson' AND department = 'HR'
+OR empid = 103 AND ssn = '456-78-9123' AND phone = '555-0103' AND email = 'bob@company.com' AND salary = 72000.00 AND name = 'Bob Brown' AND department = 'IT'
+OR empid = 104 AND ssn = '741-85-3691' AND phone = '555-0104' AND email = 'alice@company.com' AND salary = 80000.00 AND name = 'Alice White' AND department = 'Finance'
+OR empid = 105 AND ssn = '159-26-4837' AND phone = '555-0105' AND email = 'tom@company.com' AND salary = 70000.00 AND name = 'Tom Green' AND department = 'IT'

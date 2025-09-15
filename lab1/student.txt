@@ -1,0 +1,7 @@
++---------+-------------+----------------------+
+|studentid|studentname  |studentmajor          |
++---------+-------------+----------------------+
+|101      |Alice Johnson|Computer Science      |
+|102      |Bob Smith    |Electrical Engineering|
+|103      |Charlie Brown|Mechanical Engineering|
++---------+-------------+----------------------+
